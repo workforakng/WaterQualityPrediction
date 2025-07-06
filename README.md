@@ -7,7 +7,7 @@ This AI-powered project predicts six major **water pollutants** using historical
 ## 🚀 Run the App
 
 ### ▶️ In Google Colab  
-Click below to launch the prediction app in 1 cell:
+Click below to launch the prediction app:
 
 👉 **[Run on Colab](https://colab.research.google.com/github/workforakng/WaterQualityPrediction/blob/main/WaterQualityPred_Week3_.ipynb)**
 
