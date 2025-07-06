@@ -11,6 +11,12 @@ Click below to launch the prediction app:
 
 👉 **[Run on Colab](https://colab.research.google.com/github/workforakng/WaterQualityPrediction/blob/main/WaterQualityPred_Week3_.ipynb)**
 
+## By: AKSHAR NATH GORAIN 
+Registration ID: 
+STU6829b3f24d2691747563506 
+AICTE Internship ID: 
+INTERNSHIP_1746416864681834e0e35d8
+
 ## 📁 Dataset Summary
 
 - **File:** `PB_All_2000_2021.csv`
